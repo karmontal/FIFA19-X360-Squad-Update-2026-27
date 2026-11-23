@@ -4,18 +4,26 @@ An unofficial, fan-made squad update for **FIFA 19 on Xbox 360**. This is an ear
 
 **⬇️ Download:** the zip in [Releases](../../releases/latest).
 
-## What's in it
-- **Premier League, Serie A and MLS** with their full 2026/27 squads:
-  - 618 transfers
-  - 1,430 new players
+## What's in it (v0.2)
+- **Seven leagues** with their full 2026/27 squads: Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Saudi Pro League and MLS.
+  - 1,201 transfers
+  - 3,058 new players
   - 5,461 rating updates
-- Promoted and relegated clubs follow the 2026/27 season (Coventry, Ipswich and Hull in the Premier League; Venezia and Frosinone in Serie A).
+- Promoted and relegated clubs follow the 2026/27 season.
 - **Inter Miami CF** takes Colorado Rapids' slot, with Messi, De Paul, Casemiro and Suárez.
+- A few examples:
+  - Real Madrid: Mbappé, Alexander-Arnold
+  - Liverpool: Wirtz, Isak, Ekitiké
+  - Bayern: Kane, Olise, Luis Díaz
+  - PSG: Kvaratskhelia, João Neves
+  - Al Nassr: Ronaldo, João Félix
+  - LAFC: Son
 
 ## Known limits
 - Inter Miami has its new name and colours, but still uses Colorado's crest and kits.
 - New players have generic faces, and the commentator does not say their names.
-- LaLiga, Bundesliga, Ligue 1 and the Saudi Pro League are in progress.
+- Saudi Pro League: four clubs (Al Batin, Al Raed, Al Wehda, Ohod Club) aren't in this season's league. They stand in for current clubs FIFA 19 doesn't have, and keep their 2018 squads.
+- Other leagues keep their 2018 squads.
 
 ## Requirements
 - FIFA 19 for Xbox 360, **US version** (Title ID `454109F9`).
