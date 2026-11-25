@@ -39,5 +39,6 @@ Same steps, in the extracted game folder on your computer. Keep `.orig` copies b
 ## Notes
 - **Do not load an old Squads save.** It replaces the update with the old squads.
 - **Inter Miami** (in Colorado Rapids' slot) has its new name and colours, but still uses Colorado's crest and kits.
+- **Egyptian Premier League** (in the J1 League's slot, under Egypt): the clubs still use the Japanese clubs' crests, kits and stadiums, and the ratings are estimates.
 - **New players** have generic faces, and the commentator does not say their names.
-- So far every release has been tested in an emulator only, **not yet on a real Xbox 360**.
+- v0.3 has been played on a real Xbox 360. Each new release is tested in an emulator first (the Your Club card, the main menu and Kick Off).

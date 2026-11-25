@@ -4,9 +4,13 @@ An unofficial, fan-made squad update for **FIFA 19 on Xbox 360**. This is an ear
 
 **⬇️ Download:** the zip in [Releases](../../releases/latest).
 
-## What's in it (v0.3)
-- **Fixed in v0.3:** in v0.2, 59 new players (Bellingham, Musiala, Wirtz, Palmer, Mainoo and others) were women in game. If you installed v0.2, replace `data0.big` with the one from v0.3; the other two files are unchanged.
-- **Seven leagues** with their full 2026/27 squads: Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Saudi Pro League and MLS.
+## What's in it (v0.4)
+- **New in v0.4: the Egyptian Premier League.** It takes the J1 League's slot and is listed under Egypt. All 18 clubs have their 2026/27 squads (Al Ahly, Zamalek, Pyramids, Al Masry and the rest).
+  - EA doesn't rate Egyptian players, so ratings are estimated from each club's level.
+  - About 20 well-known players have hand-set ratings, for example Emam Ashour, Zizo, El Shenawy, Mostafa Fathi and Chibi.
+  - v0.4 replaces all three files (`data0.big`, `data0.bh`, `locale.big`).
+- **Fixed in v0.3:** in v0.2, 59 new players (Bellingham, Musiala, Wirtz, Palmer, Mainoo and others) were women in game.
+- **Seven more leagues** with their full 2026/27 squads: Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Saudi Pro League and MLS.
   - 1,201 transfers
   - 3,058 new players
   - 5,461 rating updates
@@ -22,6 +26,8 @@ An unofficial, fan-made squad update for **FIFA 19 on Xbox 360**. This is an ear
 
 ## Known limits
 - Inter Miami has its new name and colours, but still uses Colorado's crest and kits.
+- Egyptian clubs use the Japanese clubs' crests, kits and stadiums. The league calendar is still the J1 League's.
+- Players who moved to a league that isn't in the update (Turkey, for example) are free agents.
 - New players have generic faces, and the commentator does not say their names.
 - Saudi Pro League: four clubs (Al Batin, Al Raed, Al Wehda, Ohod Club) aren't in this season's league. They stand in for current clubs FIFA 19 doesn't have, and keep their 2018 squads.
 - Other leagues keep their 2018 squads.
@@ -66,7 +72,7 @@ Also say whether you played on a real console or in Xenia.
 
 ## Notes
 - **Do not load an old Squads save.** It replaces the update with the old squads.
-- So far the update has been tested in an emulator only, not yet on a real Xbox 360.
+- v0.3 has been played on a real Xbox 360. Each new release is tested in an emulator first (the Your Club card, the main menu and Kick Off).
 
 ## Disclaimer
 This is an unofficial fan project, not affiliated with or endorsed by Electronic Arts. FIFA is a trademark of its owners. You need your own copy of the game.
