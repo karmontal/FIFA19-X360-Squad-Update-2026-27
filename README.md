@@ -4,7 +4,8 @@ An unofficial, fan-made squad update for **FIFA 19 on Xbox 360**. This is an ear
 
 **⬇️ Download:** the zip in [Releases](../../releases/latest).
 
-## What's in it (v0.2)
+## What's in it (v0.3)
+- **Fixed in v0.3:** in v0.2, 59 new players (Bellingham, Musiala, Wirtz, Palmer, Mainoo and others) were women in game. If you installed v0.2, replace `data0.big` with the one from v0.3; the other two files are unchanged.
 - **Seven leagues** with their full 2026/27 squads: Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Saudi Pro League and MLS.
   - 1,201 transfers
   - 3,058 new players
